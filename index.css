@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1737065160136-ef379de6d71d?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#homeScore-el {
+    background: #000000;
+    font-size: 90px;
+    color: #ce1141;
+    width: 120px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+#guestScore-el {
+    background: #006bb6;
+    font-size: 90px;
+    color: #f58426;
+    width: 120px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    border-radius: 4px;
+    margin: 0 2px;
+}
