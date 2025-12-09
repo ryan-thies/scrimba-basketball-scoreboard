@@ -1,6 +1,9 @@
 body {
     background-image: url("https://cdn.dribbble.com/userupload/21703438/file/original-e39a6bf69a6f911c4a5a718daef83afc.png?resize=752x564&vertical=center");
-    background-size: cover;
+    background-size: auto;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
     font-family: 'Nunito Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     text-align: center;
