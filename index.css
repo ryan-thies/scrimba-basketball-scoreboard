@@ -1,6 +1,7 @@
 body {
-    background-image: url("https://images.unsplash.com/photo-1737065160136-ef379de6d71d?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("https://cdn.dribbble.com/userupload/21703438/file/original-e39a6bf69a6f911c4a5a718daef83afc.png?resize=752x564&vertical=center");
     background-size: cover;
+    font-family: 'Nunito Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     text-align: center;
     display: flex;
